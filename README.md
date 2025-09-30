@@ -6,7 +6,7 @@ Projeto de **frontend** desenvolvido com **HTML, CSS e JavaScript**, apresentand
 
 ## Preview 🖼️
 
-![Preview do projeto Cars](./public/preview.png)
+![Preview do projeto Cars](img/Preview.png)
 
 ---
 
